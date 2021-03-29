@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GuleidMuhiadin
+- 👋 Hi, I’m Guleid Muhiadin
 - 👀 I’m a programming student whose interest is Software development and Security.
-       C#, Java and Kotlin are my passion programming languages.
+        Java and Kotlin are my passion programming languages.
 
 <!---
 GuleidMuhiadin/GuleidMuhiadin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
